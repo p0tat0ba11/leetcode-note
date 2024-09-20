@@ -1,4 +1,5 @@
 # 1. Two Sum
+
 ## Method 1 (One-pass Hash Table)
 
 ```cpp=
@@ -40,3 +41,6 @@ public:
     }
 };
 ```
+
+## Question 
+### Why is method 1 slower than method 2?
