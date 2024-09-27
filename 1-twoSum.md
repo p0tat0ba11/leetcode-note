@@ -1,12 +1,15 @@
 # 1. Two Sum
+## Description
+In this problem, we need to find the indices of two numbers whose sum equals a given target.
 
 ## Method 1 (One-pass Hash Table)
+I’ll store the numbers in a hash table along with their indices. Then, for each number, I can calculate the difference between the target and the current number to check for a match in the hash table.
 
 ```cpp=
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> appeared; // key=val, value=index
+        unordered_map<int, int> appeared;
         vector<int> out;
 
         for(int i=0; i < nums.size(); ++i) {
@@ -20,7 +23,8 @@ public:
 };
 ```
 
-## Method 2 (Binary Search)
+## Method 2 (Two-Pointer Search)
+First, I store all the numbers along with their indices in a vector and sort the vector based on the values. Then, I employ a two-pointer approach to find the two numbers that add up to the target.
 
 ```cpp=
 class Solution {
