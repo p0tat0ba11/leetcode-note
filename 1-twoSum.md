@@ -3,7 +3,7 @@
 In this problem, we need to find the indices of two numbers whose sum equals a given target.
 
 ## Method 1 (One-pass Hash Table)
-I’ll store the numbers in a hash table along with their indices. Then, for each number, I can calculate the difference between the target and the current number to check for a match in the hash table.
+I store the numbers in a hash table along with their indices. Then, for each number, I can calculate the difference between the target and the current number to check for a match in the hash table.
 
 ```cpp=
 class Solution {

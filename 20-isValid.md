@@ -1,6 +1,9 @@
 # 20. Valid Parentheses
+The problem involves checking if the brackets are matched correctly and of the same type. 
 
 ## Method 
+I use a map (implemented as red-black trees) to associate the closing brackets with their corresponding opening brackets. When I encounter a closing bracket, I push it onto a stack. For an opening bracket, I check if the stack is empty and if the top of the stack matches the correct type of bracket.
+
 ```cpp=
 class Solution {
 public:
