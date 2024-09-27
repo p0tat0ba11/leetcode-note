@@ -12,3 +12,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/9/24 | [704. Binary Search](704-search.md) |
 | 2024/9/25 | [733. Flood Fill](733-floodFill.md) |
 | 2024/9/26 | [235. Lowest Common Ancestor of a Binary Search Tree](235-lowestCommonAncestor.md) |
+| 2024/9/27 | [141. Linked List Cycle](141-hasCycle.md) |
