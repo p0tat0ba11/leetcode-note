@@ -15,3 +15,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/9/27 | [141. Linked List Cycle](141-hasCycle.md) |
 | 2024/9/28 | [110. Balanced Binary Tree](110-isBalanced.md) |
 | 2024/9/29 | [232. Implement Queue using Stacks](232-MyQueue.md) |
+| 2024/9/30 | [278. First Bad Version](278-firstBadVersion.md) |
