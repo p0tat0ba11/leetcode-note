@@ -1,6 +1,9 @@
 # 21. Merge Two Sorted Lists
+The problem is to merge two linked lists into a single sorted list.
 
 ## Method 
+I merge the two linked lists recursively.
+
 ```cpp=
 class Solution {
 public:
