@@ -17,3 +17,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/9/29 | [232. Implement Queue using Stacks](232-MyQueue.md) |
 | 2024/9/30 | [278. First Bad Version](278-firstBadVersion.md) </br> [383. Ransom Note](383-canConstruct.md) |
 | 2024/10/1 | [70. Climbing Stairs](70-climbStairs.md) |
+| 2024/10/2 | [409. Longest Palindrome](409-longestPalindrome.md) |
