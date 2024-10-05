@@ -20,3 +20,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/10/2 | [409. Longest Palindrome](409-longestPalindrome.md) </br> [1133. Largest Unique Number](1133-largestUniqueNumber.md) |
 | 2024/10/3 | [206. Reverse Linked List](206-reverseList.md) |
 | 2024/10/4 | [169. Majority Element](169-majorityElement.md) |
+| 2024/10/5 | [67. Add Binary](67-addBinary.md) |
