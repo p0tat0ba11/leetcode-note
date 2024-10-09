@@ -21,4 +21,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/10/3 | [206. Reverse Linked List](206-reverseList.md) |
 | 2024/10/4 | [169. Majority Element](169-majorityElement.md) |
 | 2024/10/5 | [67. Add Binary](67-addBinary.md) |
-| 2024/10/9 | [876. Middle of the Linked List](876-middleNode.md) |
+| 2024/10/9 | [876. Middle of the Linked List](876-middleNode.md) </br> [104. Maximum Depth of Binary Tree](104-maxDepth.md) |
