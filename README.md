@@ -22,4 +22,5 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/10/4 | [169. Majority Element](169-majorityElement.md) |
 | 2024/10/5 | [67. Add Binary](67-addBinary.md) |
 | 2024/10/9 | [876. Middle of the Linked List](876-middleNode.md) </br> [104. Maximum Depth of Binary Tree](104-maxDepth.md) |
- 2024/10/11 | [217. Contains Duplicate](217-containsDuplicate.md) |
+| 2024/10/11 | [217. Contains Duplicate](217-containsDuplicate.md) |
+| 2024/10/13 | [53. Maximum Subarray](53-maxSubArray.md) |
