@@ -24,3 +24,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/10/9 | [876. Middle of the Linked List](876-middleNode.md) </br> [104. Maximum Depth of Binary Tree](104-maxDepth.md) |
 | 2024/10/11 | [217. Contains Duplicate](217-containsDuplicate.md) |
 | 2024/10/13 | [53. Maximum Subarray](53-maxSubArray.md) |
+| 2024/10/18 | [57. Insert Interval](57-insert.md) |
