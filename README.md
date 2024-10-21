@@ -24,4 +24,5 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/10/8 | [543. Diameter of Binary Tree](543-diameterOfBinaryTree.md) |
 | 2024/10/9 | [876. Middle of the Linked List](876-middleNode.md) </br> [104. Maximum Depth of Binary Tree](104-maxDepth.md) |
 | 2024/10/11 | [217. Contains Duplicate](217-containsDuplicate.md) |
+| 2024/10/20 | [542. 01 Matrix](542-updateMatrix.md) |
 | 2024/10/21 | [1429. First Unique Number](1429-FirstUnique.md) |
