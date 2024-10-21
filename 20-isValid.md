@@ -1,4 +1,5 @@
 # 20. Valid Parentheses
+## Description
 The problem involves checking if the brackets are matched correctly and of the same type. 
 
 ## Method 
