@@ -29,3 +29,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/10/20 | [542. 01 Matrix](542-updateMatrix.md) |
 | 2024/10/21 | [1429. First Unique Number](1429-FirstUnique.md) |
 | 2024/10/22 | [2583. Kth Largest Sum in a Binary Tree](2583-kthLargestLevelSum.md) |
+| 2024/10/23 | [973. K Closest Points to Origin](973-kClosest.md) |
