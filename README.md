@@ -34,3 +34,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/10/25 | [102. Binary Tree Level Order Traversal](102-levelOrder.md) |
 | 2024/10/29 | [15. 3Sum](15-threeSum.md) |
 | 2024/10/30 | [150. Evaluate Reverse Polish Notation](150-evalRPN.md) |
+| 2024/10/31 | [867. Transpose Matrix](867-transpose.md) |
