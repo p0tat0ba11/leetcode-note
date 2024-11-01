@@ -35,3 +35,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/10/29 | [15. 3Sum](15-threeSum.md) |
 | 2024/10/30 | [150. Evaluate Reverse Polish Notation](150-evalRPN.md) |
 | 2024/10/31 | [867. Transpose Matrix](867-transpose.md) |
+| 2024/11/1 | [1957. Delete Characters to Make Fancy String](1957-makeFancyString.md) |
