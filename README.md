@@ -38,4 +38,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/11/1 | [1957. Delete Characters to Make Fancy String](1957-makeFancyString.md) |
 | 2024/11/5 | [238. Product of Array Except Self](238-productExceptSelf.md) |
 | 2024/11/6 | [9. Palindrome Number](9-isPalindrome.md) |
-| 2024/11/7 | [1657. Determine if Two Strings Are Close](1657-closeStrings.md) |
+| 2024/11/7 | [1657. Determine if Two Strings Are Close](1657-closeStrings.md) </br> [3289. The Two Sneaky Numbers of Digitville](3289-getSneakyNumbers.md) |
