@@ -39,4 +39,5 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/11/5 | [238. Product of Array Except Self](238-productExceptSelf.md) | 1 |
 | 2024/11/6 | [9. Palindrome Number](9-isPalindrome.md) | 1 |
 | 2024/11/7 | [1657. Determine if Two Strings Are Close](1657-closeStrings.md) </br> [3289. The Two Sneaky Numbers of Digitville](3289-getSneakyNumbers.md) </br> [1331. Rank Transform of an Array](1331-arrayRankTransform.md)| 3 |
-| 2024/11/9 | [374. Guess Number Higher or Lower](374-guessNumber.md)
+| 2024/11/8 | [1213. Intersection of Three Sorted Arrays](1213-arraysIntersection.md) | 1 |
+| 2024/11/9 | [374. Guess Number Higher or Lower](374-guessNumber.md) | 1 |
