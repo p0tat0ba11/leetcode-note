@@ -43,3 +43,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/11/9 | [374. Guess Number Higher or Lower](374-guessNumber.md) </br> [2706. Buy Two Chocolates](2706-buyChoco.md)| 2 |
 | 2024/11/10 | [133. Clone Graph](133-cloneGraph.md) | 1 |
 | 2024/11/11 | [13. Roman to Integer](13-romanToInt.md) | 1 |
+| 2024/11/14 | [14. Longest Common Prefix](14-longestCommonPrefix.md) | 1 |
