@@ -44,3 +44,4 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/11/10 | [133. Clone Graph](133-cloneGraph.md) | 1 |
 | 2024/11/11 | [13. Roman to Integer](13-romanToInt.md) | 1 |
 | 2024/11/14 | [14. Longest Common Prefix](14-longestCommonPrefix.md) | 1 |
+| 2024/11/17 | [26. Remove Duplicates from Sorted Array](26-removeDuplicates.md) | 1 |
