@@ -48,5 +48,6 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2024/11/18 | [1652. Defuse the Bomb](1652-decrypt.md) | 1 |
 | 2025/2/22 | [1768. Merge Strings Alternately](1768-mergeAlternately.md) | 1 |
 | 2025/2/25 | [1431. Kids With the Greatest Number of Candies](1431-kidsWithCandies.md) | 1 |
+| 2025/2/26 | [345. Reverse Vowels of a String](345-reverseVowels.md)
 
-**Total Counts:** 52
+**Total Counts:** 53
