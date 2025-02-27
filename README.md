@@ -49,5 +49,6 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2025/2/22 | [1768. Merge Strings Alternately](1768-mergeAlternately.md) | 1 |
 | 2025/2/25 | [1431. Kids With the Greatest Number of Candies](1431-kidsWithCandies.md) | 1 |
 | 2025/2/26 | [345. Reverse Vowels of a String](345-reverseVowels.md) <br> [283. Move Zeroes](283-moveZeroes.md) | 2 |
+| 2025/2/27 | [392. Is Subsequence](392-isSubsequence.md) | 1 |
 
-**Total Counts:** 54
+**Total Counts:** 55
