@@ -3,7 +3,7 @@
 This repository is for me to organize my LeetCode notes and practice using Git commands. 
 
 2025/2/28 
-* Develop a markdown-to-cpp parser to convert my notes from markdown to cpp file
+* Develop a [markdown-to-cpp parser](markdown-to-cpp\README.md) to convert my notes from markdown to cpp file
 * Develop a unit test for the parser
 
 | Date | Problem(s) | Count(s) |
