@@ -60,5 +60,6 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2025/3/3 | [643. Maximum Average Subarray I](643-findMaxAverage.cpp) | 1 |
 | 2025/3/4 | [1207. Unique Number of Occurrences](1207-uniqueOccurrences.cpp) | 1 |
 | 2025/3/5 | [700. Search in a Binary Search Tree](700-searchBST.cpp) | 1 |
+| 2025/3/6 | [1137. N-th Tribonacci Number](1137-tribonacci.cpp) | 1 |
 
-**Total Counts:** 61
+**Total Counts:** 62
