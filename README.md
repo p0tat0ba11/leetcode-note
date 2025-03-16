@@ -62,5 +62,6 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2025/3/5 | [700. Search in a Binary Search Tree](700-searchBST.cpp) | 1 |
 | 2025/3/6 | [1137. N-th Tribonacci Number](1137-tribonacci.cpp) | 1 |
 | 2025/3/15 | [266. Palindrome Permutation](266-canPermutePalindrome.cpp) | 1 |
+| 2025/3/17 | [746. Min Cost Climbing Stairs](746-minCostClimbingStairs.cpp) | 1 |
 
-**Total Counts:** 63
+**Total Counts:** 64
