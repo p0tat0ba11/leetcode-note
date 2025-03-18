@@ -63,5 +63,6 @@ This repository is for me to organize my LeetCode notes and practice using Git c
 | 2025/3/6 | [1137. N-th Tribonacci Number](1137-tribonacci.cpp) | 1 |
 | 2025/3/15 | [266. Palindrome Permutation](266-canPermutePalindrome.cpp) | 1 |
 | 2025/3/17 | [746. Min Cost Climbing Stairs](746-minCostClimbingStairs.cpp) </br> [199. Binary Tree Right Side View](199-rightSideView.cpp) </br> [198. House Robber](198-rob.cpp)| 3 |
+| [2401. Longest Nice Subarray](2401-longestNiceSubarray.cpp) | 1 | 
 
-**Total Counts:** 65
+**Total Counts:** 66
